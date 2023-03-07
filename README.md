@@ -1,2 +1,2 @@
 # Matematično modeliranje
-## Projekt za predmet matematično modeliranje
+Projekt za predmet matematično modeliranje
